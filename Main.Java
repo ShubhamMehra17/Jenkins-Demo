@@ -3,5 +3,7 @@ public class Main{
         System.out.println("Hey Mr. Vinay and Subham");
         System.out.println("It's a beautiful day  ");
         System.out.println("God bless you. ");
+        System.out.println("God bless you1. ");
+        System.out.println("God bless you2. ");
     }
 }
